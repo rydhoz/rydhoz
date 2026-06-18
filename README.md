@@ -2,7 +2,7 @@
   
   <!-- Neon box banner -->
   <div style="border: 3px solid #00ffff; border-radius: 15px; padding: 40px 20px; margin-bottom: 20px; box-shadow: 0 0 25px #00ffff80; background: linear-gradient(145deg, #0d1117 0%, #1a1f2b 100%);">
-    <h1 style="color:#00ffff; text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff80; font-size: 3em; margin: 0; letter-spacing: 4px; font-family: monospace;">⚡ WELCOME TO MY PROFILE ⚡</h1>
+    <h1 style="color:#00ffff; text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff80; font-size: 3em; margin: 0; letter-spacing: 4px; font-family: monospace;"> WELCOME TO MY PROFILE </h1>
     <p style="color:#c9d1d9; font-size:18px; margin-top:10px;"> <b>-Full Stack Developer-</b> | Clean Code Professional | <b>-Front End Advanced-</b></p>
   </div>
   
@@ -30,13 +30,13 @@
 <table align="center" style="background-color:#0d1117; border-radius:15px; padding:20px; box-shadow: 0 0 20px #00ffff40;">
   <tr>
     <td style="padding:20px; color:#c9d1d9;">
-      <h2 style="color:#00ffff;">⚡ About Me ⚡</h2>
+      <h2 style="color:#00ffff;"> About Me </h2>
       <p>
-        • 🔭 Sangat antusias belajar hal baru<br/>
-        • 🌱 Sedang mendalami <b>Web3 & AI</b><br/>
-        • 👯 Ingin berkolaborasi di <b>open source project</b> apapun!<br/>
-        • 📫 Cara menghubungi: <b>ridho8977@gmail.com</b><br/>
-        • ⚡ Fun fact: Aku bisa ngoding sambil minum kopi 3 gelas!
+        •  Sangat antusias belajar hal baru<br/>
+        •  Sedang mendalami <b>Web3 & AI</b><br/>
+        •  Ingin berkolaborasi di <b>open source project</b> apapun!<br/>
+        •  Cara menghubungi: <b>ridho8977@gmail.com</b><br/>
+        •  Fun fact: Aku bisa ngoding sambil minum kopi 3 gelas!
       </p>
     </td>
     <td align="center" style="padding:20px;">
