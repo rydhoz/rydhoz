@@ -7,8 +7,8 @@
   </div>
   
   <!-- Avatar -->
-  <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
-  
+  <img src="https://github.com/rydhoz/rydhoz/blob/main/ridho_re-zero_style-circle.png" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
+
   <h1 style="color:#00ffff; text-shadow: 0 0 10px #00ffff; margin-top: 20px;">Ridho Akbar</h1>
   
   <!-- Typing SVG Animasi -->
